@@ -66,6 +66,7 @@ ul{
 a{
 	color:white;
 	text-decoration: underline;
+	font-size: 35px;
 }
 
 body{
@@ -74,23 +75,24 @@ body{
 
 footer{
 	padding:15px 10px;
-	background: white;
+	background: black;
 	margin-top: 60px;
 }
 
 ul{
 	text-align: center;
 	font-size: 30px;
-	color:white;
 }
 
 footer ul{
 	text-align: center;
-	color: black;
+	color: white;
+	background: #70298f;
 }
 
 footer ul li{
 	display:inline-block;
 	margin-top: 0 15px;
+	font-size: 24px;
 }
 
